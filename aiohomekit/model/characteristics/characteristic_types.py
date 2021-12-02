@@ -293,6 +293,10 @@ class CharacteristicsTypes:
     # https://github.com/RavenSystem/esp-homekit-devices
     VENDOR_HAA_SETUP = "F0000102-0218-2017-81BF-AF2B7C833922"
     VENDOR_HAA_UPDATE = "F0000101-0218-2017-81BF-AF2B7C833922"
+    
+    # iDevices
+    # milliWatts
+    VENDOR_IDEVICES_REALTIME_ENERGY = "6747C102-FAC9-4D62-ADF4-E764D0A8B39D"
 
     # Koogeek
     # Watts
